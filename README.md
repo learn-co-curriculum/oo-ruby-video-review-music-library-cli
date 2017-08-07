@@ -1,3 +1,5 @@
+# Video Review: Music Library CLI
+
 ## Overview
 
 This video lesson uses a review of the Music Libray CLI lab as the basis for a comprehensive look at Object Oriented Ruby. Please do the lab before watching this video to get the most out of it. 
@@ -16,7 +18,5 @@ This video lesson uses a review of the Music Libray CLI lab as the basis for a c
 - Explain builder mixin and module patterns
 
 <iframe width="100%" height="720" src="https://www.youtube.com/embed/iClea2crypU?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
-
-<p class='util--hide'>View <a href='https://learn.co/lessons/oo-ruby-video-review-music-library-cli'>OO Ruby Video Review: Music Library CLI </a> on Learn.co and start learning to code for free.</p>
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/oo-ruby-video-review-music-library-cli'>Video Review: Music Library CLI</a> on Learn.co and start learning to code for free.</p>
