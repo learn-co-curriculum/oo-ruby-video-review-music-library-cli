@@ -19,4 +19,4 @@ This video lesson uses a review of the Music Libray CLI lab as the basis for a c
 
 <iframe width="100%" height="720" src="https://www.youtube.com/embed/iClea2crypU?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
-<p class='util--hide'>View <a href='https://learn.co/lessons/oo-ruby-video-review-music-library-cli'>Video Review: Music Library CLI</a> on Learn.co and start learning to code for free.</p>
+
